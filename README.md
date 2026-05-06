@@ -21,9 +21,9 @@
 ## Étape 2 : Ajouter un actionneur sur l’esp32
 - Cette étape servira a tester le buzzer avec la LED
 ### Matériels à utiliser :
--	ESP32.
+-	ESP32
 -	Grove buzzer
--	Une Resistance (à définir plus tard)
+-	Une Resistance de 220Ω
 -	LED
 -	Breadboard 
 
