@@ -25,10 +25,10 @@
 -	LED
 -	Breadboard 
 
-### 1 Test du buzzer
+### 1 Test buzzer
 - broche utiliser: VCC - 3.3V/ GND - GND/ SIG - GPIO26
     Copiez ce code dans votre Arduino :
-  ```cpp
+```cpp
 const int buzzer = 23;
 
 void setup() {
@@ -49,3 +49,5 @@ void loop() {
   delay(1000);
 }
 ```
+### 2 Test LED
+
