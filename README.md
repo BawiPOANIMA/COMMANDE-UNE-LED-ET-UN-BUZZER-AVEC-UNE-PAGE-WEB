@@ -50,4 +50,6 @@ void loop() {
 }
 ```
 ### 2 Test LED
+- Brancher la LED avec l’ESP32 de la façon suivante :
 ![Resistance](images/Resistance.PNG)
+  Ensuite implémenter le code suivant sur l'ESP32:
