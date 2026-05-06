@@ -50,4 +50,4 @@ void loop() {
 }
 ```
 ### 2 Test LED
-![Resistance](images/Resistance.png)
+![Resistance](images/Resistance.PNG)
