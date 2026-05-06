@@ -1,4 +1,4 @@
-# Commande-une-LED-et-un-Buzzer-avec-le-site
+# Commande une LED et un Buzzer avec le site
 ## Étape 1 : Ajouter les boutons dans la page data.php
 - il faut rajouter dans la partie body 2 bouton **"Allumer"** un pour le Buzzer et un pour la LED
   Copiez le code dans la partie body
