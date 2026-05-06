@@ -78,11 +78,11 @@ delay(2000); // attendre 2 secondes
 #include <WebServer.h>
 
 // ===== WIFI =====
-const char* ssid = "TPSN035";
-const char* password = "BTSSN2022";
+const char* ssid = "Nom du Réseau";//parti a modifie
+const char* password = "Mot de passe réseau";//parti a modifie
 
 // serveur PHP (envoi valeur)
-const char* serverName = "http://192.168.100.37/btsciel/index.php";
+const char* serverName = "http://Adresse IP UBUNTU/btsciel/data.php"; //parti a modifie
 
 // ===== SERVEUR WEB LOCAL =====
 WebServer server(80);
