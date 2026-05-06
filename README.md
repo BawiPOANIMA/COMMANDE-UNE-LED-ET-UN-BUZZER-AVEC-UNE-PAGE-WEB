@@ -80,7 +80,7 @@ delay(2000); // attendre 2 secondes
 #include <WebServer.h>
 
 // ===== WIFI =====
-const char* ssid = "Nom du Réseau";//parti a modifie
+const char* ssid = "Nom du réseau";//parti a modifie
 const char* password = "Mot de passe réseau";//parti a modifie
 
 // serveur PHP (envoi valeur)
